@@ -1,3 +1,5 @@
+#simple GUI with the help of Tkinter library to find out the data type of a value in Python programming.
+
 from tkinter import *
 import tkinter as tk
 
