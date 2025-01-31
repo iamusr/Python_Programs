@@ -38,8 +38,7 @@ def checkdatatype(input_value):
 
         elif input_value=='None':
             print('How you are consider None, select the option below')
-            print('1.Keyword')
-            print('2.String\n')
+            print('1.keyword','2.string',sep='\n')
             choose=int(input('Choose the option: '))
             print('\n')
             if choose==1:
